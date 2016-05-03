@@ -1,0 +1,25 @@
+{
+    "name": "scrinus/api-connector-js",
+    "type": "library",
+    "description": "PHP javascript to connect to the scrinus API",
+    "keywords": ["scrinus", "javascript", "library", "connector"],
+    "homepage": "http://scrinus.com",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Markus Pfeifenberger",
+            "email": "markus@scrinus.com",
+            "homepage": "http://scrinus.com",
+            "role": "Developer"
+        },
+        {
+            "name": "David Spiola",
+            "email": "david@scrinus.com",
+            "homepage": "http://scrinus.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@scrinus.com"
+    }
+}
